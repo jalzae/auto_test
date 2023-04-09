@@ -1,0 +1,17 @@
+{
+  "name": "autotest",
+  "version": "1.0.0",
+  "description": "its will autotest your json",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "author": "jalzae",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
